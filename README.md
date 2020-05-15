@@ -18,5 +18,5 @@ https://youtu.be/3rRYUBfohlo  (lecture + exercises)
 Machine Learning Lecture 2: Kernel Ridge Regession and Molecules
 https://youtu.be/wuuEsu1x7Ls  (lecture + exercises)
 
-Machine Learning Lecture 2: Introduction to Neural Networks 
-https://youtu.be/wuuEsu1x7Ls  (lectures only)
+Machine Learning Lecture 3: Introduction to Neural Networks 
+https://youtu.be/0_xZ97VEEAk (lectures only)
